@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-common" />
+        <module name="mall-manger-dao" />
+        <module name="mall-manger-interface" />
+        <module name="mall-manger-pojo" />
+        <module name="mall-manger-service" />
+        <module name="mall-manger-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall-common" target="1.7" />
+      <module name="mall-manger" target="1.7" />
+      <module name="mall-manger-dao" target="1.7" />
+      <module name="mall-manger-interface" target="1.7" />
+      <module name="mall-manger-pojo" target="1.7" />
+      <module name="mall-manger-service" target="1.7" />
+      <module name="mall-manger-web" target="1.7" />
+      <module name="mall-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

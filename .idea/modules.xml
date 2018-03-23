@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manger/mall-manger.iml" filepath="$PROJECT_DIR$/mall-manger/mall-manger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manger/mall-manger-dao/mall-manger-dao.iml" filepath="$PROJECT_DIR$/mall-manger/mall-manger-dao/mall-manger-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manger/mall-manger-interface/mall-manger-interface.iml" filepath="$PROJECT_DIR$/mall-manger/mall-manger-interface/mall-manger-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manger/mall-manger-pojo/mall-manger-pojo.iml" filepath="$PROJECT_DIR$/mall-manger/mall-manger-pojo/mall-manger-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manger/mall-manger-service/mall-manger-service.iml" filepath="$PROJECT_DIR$/mall-manger/mall-manger-service/mall-manger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manger/mall-manger-web/mall-manger-web.iml" filepath="$PROJECT_DIR$/mall-manger/mall-manger-web/mall-manger-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-parent.iml" filepath="$PROJECT_DIR$/mall-parent/mall-parent.iml" />
+    </modules>
+  </component>
+</project>
